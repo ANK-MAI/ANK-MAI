@@ -5,6 +5,7 @@
 - 📫 How to reach me: 
         - E-mail: maiqingkai@gmail.com
         - LinkedIn: Qingkai MAI
+- 2026.05.02 Update something in Github.
 
 <!---
 ANK-MAI/ANK-MAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
